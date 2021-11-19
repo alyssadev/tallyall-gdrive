@@ -1,0 +1,8 @@
+name = "tallyall-gdrive"
+type = "javascript"
+route = 'https://test.tallyall.club/*'
+zone_id = 'e0cd20d037a8a57be136bc05a9862e9a'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2021-11-19"
